@@ -1,4 +1,4 @@
-Hi, welcome to the Intro to Git workshop! Here are some practice tasks that we will complete in a few moments:
+Hi, welcome to the Intro to Git workshop! Here are some practice tasks to complete:
 1. Create a new text file in this repository. Name it whatever you want, but make sure that it is distinct to you! You will import the other participant's files later on and we don't want any confusing file names.
 2. Edit your file using whichever method you prefer. Introduce yourself by stating your name, major, and what time period you would visit if you had a time machine.
 3. If you are using a text editor, save your file and exit the editor. 

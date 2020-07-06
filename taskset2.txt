@@ -2,3 +2,4 @@
 2. Go into the file that you created earlier and add a line saying who you would want to meet from the time period that you visit.
 3. Save your work and check the status of your local repository.
 4. View the differences between the files in your branch and the files in the master branch with git diff.
+5. Stage/Add and commit your file with its changes.

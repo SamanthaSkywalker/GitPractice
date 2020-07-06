@@ -1,0 +1,3 @@
+1. Create a new branch in this repository and name it after yourself.
+2. Go into the file that you created earlier and add a line saying who you would want to meet from the time period that you visit.
+3. Save your work and check the status of your local repository.

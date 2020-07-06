@@ -4,5 +4,3 @@ Hi, welcome to the Intro to Git workshop! Here are some practice tasks that we w
 3. If you are using a text editor, save your file and exit the editor. 
 4. Stage the file
 5. Commit the file, and don't forget to include a descriptive commit message!
-6. Push the file to the remote repository's master branch
-7. If you want, you can refresh this github page in your browser, you should see your new file included in the list of files!
